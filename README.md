@@ -1,5 +1,5 @@
 ### Thinking, Coding, Improving
-- I am VOID001, a MSc. student working on database system area.
+- I am VOID001, an MSc. student working on database system area.
 - I love kernel hacking.
 - I am currently working on some black⚡magic on database transaction processing.
 - I am currently learning cpp/rust, metaprogramming, database system.
