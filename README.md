@@ -3,7 +3,7 @@
 - I am currently working on the scheduler/metadata manager of the distributed database system.
 - I am currently learning cpp/rust, metaprogramming, database system.
 - My username VOID001 comes from the void * pointer in C/cpp.
-- My Paper **"Skeena: Efficient and Consistent Cross-Engine Transactions"** got accepted in SIGMOD2022. The link will be posted later
+- My Paper **"Skeena: Efficient and Consistent Cross-Engine Transactions"** got accepted in SIGMOD 2022. The link will be posted later
 
 
 <!--
